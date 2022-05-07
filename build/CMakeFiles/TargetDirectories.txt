@@ -1,0 +1,13 @@
+/home/qfs/varsize_buildOK/build/CMakeFiles/install/local.dir
+/home/qfs/varsize_buildOK/build/CMakeFiles/install.dir
+/home/qfs/varsize_buildOK/build/CMakeFiles/list_install_components.dir
+/home/qfs/varsize_buildOK/build/CMakeFiles/rebuild_cache.dir
+/home/qfs/varsize_buildOK/build/CMakeFiles/edit_cache.dir
+/home/qfs/varsize_buildOK/build/CMakeFiles/playground.dir
+/home/qfs/varsize_buildOK/build/CMakeFiles/install/strip.dir
+/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-build/CMakeFiles/install/strip.dir
+/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-build/CMakeFiles/install.dir
+/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-build/CMakeFiles/list_install_components.dir
+/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-build/CMakeFiles/rebuild_cache.dir
+/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-build/CMakeFiles/edit_cache.dir
+/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-build/CMakeFiles/install/local.dir

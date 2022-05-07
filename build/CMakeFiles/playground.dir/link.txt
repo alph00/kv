@@ -1,0 +1,1 @@
+/home/qfs/bin/g++     CMakeFiles/playground.dir/playground.cpp.o  -o playground  -lpthread 

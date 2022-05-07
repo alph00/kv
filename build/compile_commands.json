@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qfs/varsize_buildOK/build",
+  "command": "/home/qfs/bin/g++   -I/home/qfs/varsize_buildOK/include -I/home/qfs/varsize_buildOK/build/_deps/concurrentqueue-src    -march=native -mclwb -pthread -std=gnu++17 -o CMakeFiles/playground.dir/playground.cpp.o -c /home/qfs/varsize_buildOK/playground.cpp",
+  "file": "/home/qfs/varsize_buildOK/playground.cpp"
+}
+]
